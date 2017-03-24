@@ -13,7 +13,7 @@ import flipviewpager.view.FlipViewPager;
 import tie.hackathon.travelguide.R;
 
 /**
- * @author Yalantis
+ * @author 
  */
 public abstract class BaseFlipAdapter<T> extends BaseAdapter {
     private final List<T> items;

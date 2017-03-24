@@ -1,7 +1,7 @@
 package adapters;
 
 /**
- * Created by swati on 20/10/16.
+ * 
  */
 
 import android.content.Context;

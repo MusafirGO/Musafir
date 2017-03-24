@@ -24,11 +24,8 @@ import android.widget.Scroller;
 import java.util.HashMap;
 
 /**
- * onInterceptTouchEvent() modified by Tom-Philipp Seifert to allow delegation of click events
- * to buttons etc.
- *
- * @author Yalantis
- */
+ * 
+**/
 public class FlipViewPager extends FrameLayout {
 
     private static final int FLIP_ANIM_DURATION = 300;
