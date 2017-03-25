@@ -1,7 +1,7 @@
 #Musafir must-have app for all the people who want to travel to new a city. The app provides them with everything from **choosing the correct destination** to **making all the bookings** and to **easily organizing the trip**. The platform basically uses a [mash-up technology](https://en.wikipedia.org/wiki/Mashup_(web_application_hybrid)). We have tried to include solutions for every possible problem the traveller might face during the course of his entire journey.
 
 
-+ **[How Travel Mate Works](#how-travel-mate-works)**
++ **[How Musafir Works](#how-travel-mate-works)**
 + **[Select Destination](#select-destination)**
 + **[Travel](#travel)**
   + [My trips](#my-trips)
@@ -24,7 +24,7 @@
 
 
 
-##How Travel Mate Works
+##How Musafir Works
 
 While travelling from one place to another, there are a lot of factors to be considered in order to make the trip a memorable one. Our platform helps the traveller with anything and everything that he might need from the moment he plans the journey till the time he is back home happy and content.
 The platform includes a wide variety of options - from selection of Mode of Transport, to finding out about the destination city to provision of best music, novels depending on the mood of the traveller. Travel Mate basically works in 3 phases. 
